@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
+[AirBnb Project](https://github.com/amagsino/Project-AirBnb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,11 +19,13 @@
 
 ### Challenges
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Excel Challenge](https://github.com/amagsino/Excel-Challenge)
+- [Python Challenge](https://github.com/amagsino/Python-Challenge)
+- [VBA Challenge](https://github.com/amagsino/VBA-Challenge)
+- [Pandas Challenge](https://github.com/amagsino/Pandas-Challenge)
+- [Matplotlib Challenge](https://github.com/amagsino/Matplotlib-Challenge)
+- [Python API Challenge](https://github.com/amagsino/Python-API-Challenge)
+- [SQL Challenge](https://github.com/amagsino/SQL-Challenge)
 
 ---
 
