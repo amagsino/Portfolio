@@ -5,7 +5,7 @@
 ### Projects
 
 [AirBnb Project](https://github.com/amagsino/Project-AirBnb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/city.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
