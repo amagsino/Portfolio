@@ -1,11 +1,9 @@
 title: Aizelmarie Magsino
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst with a Bachelor’s degree in Biology and Minor in Cognitive Science from Lehigh University and a Certificate in Data Science & Visualization from Rutgers University’s Data Science Bootcamp. Experience in Excel, VBA, Python, Pandas, HTML, JavaScript, Hadoop, and both SQL and NoSQL databases (MongoDB, MySQL). Highly motivated and team-oriented, utilizes strong analytical, problem-solving, and communication skills to streamline comprehension and efficiency within the professional environment. Previously worked in a Research and Development team within the Pharmaceutical industry to maintain new product development and collaborated with team personnel to ensure efficient internal processes in addition to overseeing the management of formulations. Looking to make a difference for a company that enables me to combine my technical skills with project management in data analysis and predictive modeling.
-  <br><br>
-  Second description 
+  Data Analyst with a Bachelor’s degree in Biology and Minor in Cognitive Science from Lehigh University and a Certificate in Data Science & Visualization from Rutgers University’s Data Science Bootcamp
   <br><br>
   <a href="https://www.linkedin.com/in/aizelmarie-magsino/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-156062675-1 # your Google Analytics tracking ID here
